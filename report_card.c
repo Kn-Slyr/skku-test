@@ -12,10 +12,11 @@ int main()
 
 	printf("This program print report card.\n");
 
+	// for test 
 	printf("Korean : %d\n", kor);
 	printf("English : %d\n", eng);
 	printf("Math : %d\n", math);
 	printf("Sum : %d\n", sum);
-	printf("Mean : %d\n", sum/3);
+	printf("Average : %d\n", sum/3);
 	return 0;
 }
